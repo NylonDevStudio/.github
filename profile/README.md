@@ -7,13 +7,13 @@ For example if `dirt.png = 1` then `1-1-1/1-1-1/1-1-1` would output a 3x3 repeat
 ### <div align="center">FlixSearch API</div>
 <div align="center"> 
   
-  [![FlixSearch API](https://github-readme-stats.vercel.app/api/pin/?username=NylonDevStudio&repo=FlixSearch-API&show_owner=true&theme=radical)](https://github.com/NylonDevStudio/FlixSearch-api)
+  [![FlixSearch API](https://github-readme-stats.vercel.app/api/pin/?username=NylonDevStudio&repo=FlixSearch-API&theme=radical)](https://github.com/NylonDevStudio/FlixSearch-api)
 
 ### <div align="center">Nylon Native Docs API</div>
   
-[![NylDocs API](https://github-readme-stats.vercel.app/api/pin/?username=NylonDevStudio&repo=NylDocs-API&show_owner=true&theme=radical)](https://github.com/NylonDevStudio/NylDocs-api) </div>
+[![NylDocs API](https://github-readme-stats.vercel.app/api/pin/?username=NylonDevStudio&repo=NylDocs-API&theme=radical)](https://github.com/NylonDevStudio/NylDocs-api) </div>
 
 ### <div align="center">Economy Response Discord API</div>
   
-[![NylDocs API](https://github-readme-stats.vercel.app/api/pin/?username=NylonDevStudio&repo=Economy-Responses-Discord-API&show_owner=true&theme=radical)](https://github.com/NylonDevStudio/Economy-Responses-Discord-API)</div>
+[![NylDocs API](https://github-readme-stats.vercel.app/api/pin/?username=NylonDevStudio&repo=Economy-Responses-Discord-API&theme=radical)](https://github.com/NylonDevStudio/Economy-Responses-Discord-API)</div>
 
