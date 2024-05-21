@@ -1,6 +1,5 @@
 # Nylon Developments Studio.
 
-# Our Projects:
 ## FlixSearch API:
 [![FlixSearch API](https://github-readme-stats.vercel.app/api/pin/?username=NylonDevStudio&repo=FlixSearch-API&show_owner=true&theme=radical)](https://github.com/NylonDevStudio/FlixSearch-api)
 
